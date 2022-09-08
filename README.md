@@ -1,2 +1,3 @@
-# Dio-desafio-github
-Desafio de projeto sobre git/github
+Desafio de projeto Git/github da Dio
+Repositor criado para desafido de projeto
+## Links Úteis: 
